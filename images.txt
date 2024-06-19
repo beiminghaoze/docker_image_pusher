@@ -1,2 +1,4 @@
+nevinee/qbittorrent
 nevinee/qbittorrent:4.3.9
 jeessy/ddns-go
+nginx

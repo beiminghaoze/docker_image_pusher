@@ -3,3 +3,4 @@ nevinee/qbittorrent:4.3.9
 jeessy/ddns-go
 nginx
 snowdreamtech/frps
+snowdreamtech/frpc

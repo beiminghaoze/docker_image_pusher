@@ -1,3 +1,5 @@
 nginx
-jeessy/ddns-go
+jeessy/ddns-go:latest
 nevinee/qbittorrent:4.3.9
+snowdreamtech/frpc
+snowdreamtech/frps

@@ -5,3 +5,4 @@ snowdreamtech/frpc
 snowdreamtech/frps
 1panel/openresty:1.21.4.3-3-3-focal
 mysql:8.4.3
+1panel-php:8.3.8

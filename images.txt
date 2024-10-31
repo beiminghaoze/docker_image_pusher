@@ -3,6 +3,3 @@ jeessy/ddns-go:latest
 nevinee/qbittorrent:4.3.9
 snowdreamtech/frpc
 snowdreamtech/frps
-1panel/openresty:1.21.4.3-3-3-focal
-mysql:8.4.3
-php:8.3.8-fpm-alpine

@@ -5,3 +5,4 @@ nevinee/qbittorrent:4.3.9
 #snowdreamtech/frps
 nastool/nas-tools
 hanhongyong/ms365-e5-renew-x
+dreamacro/clash

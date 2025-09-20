@@ -6,3 +6,4 @@ nevinee/qbittorrent:4.3.9
 nastool/nas-tools
 hanhongyong/ms365-e5-renew-x
 dreamacro/clash
+python:3.11-slim
